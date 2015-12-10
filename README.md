@@ -67,6 +67,8 @@ Then try:
 
 Tab completion works and is very useful!
 
+(Picocom exit key combination is Ctrl-A-Ctrl-X)
+
 Read our documentation here:
 
 http://microbit-micropython.readthedocs.org/en/latest/
